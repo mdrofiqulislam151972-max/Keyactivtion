@@ -22,5 +22,11 @@
         "key": "anik",
         "expirydate": "12-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "9f0896cb3d264d7d",
+        "key": "ripon",
+        "expirydate": "12-10-2025",
+        "Allowoffline": false
     }
 ]
