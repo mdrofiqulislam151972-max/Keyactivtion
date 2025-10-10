@@ -70,5 +70,11 @@
         "key": "8899",
         "expirydate": "12-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "1eb6de5f31b5c462",
+        "key": "ripon",
+        "expirydate": "12-10-2025",
+        "Allowoffline": false
     }
 ]
