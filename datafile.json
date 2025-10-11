@@ -94,5 +94,11 @@
         "key": "FRFAGUN",
         "expirydate": "14-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "cdfd6e543aa400ba",
+        "key": "saimon",
+        "expirydate": "14-10-2025",
+        "Allowoffline": false
     }
 ]
