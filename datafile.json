@@ -88,5 +88,11 @@
         "key": "12345",
         "expirydate": "12-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "6aff75d1acb4d249",
+        "key": "FRFAGUN",
+        "expirydate": "14-10-2025",
+        "Allowoffline": false
     }
 ]
