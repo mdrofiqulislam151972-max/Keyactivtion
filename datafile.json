@@ -112,5 +112,11 @@
         "key": "bron",
         "expirydate": "16-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "21e2cb983c6da5ef",
+        "key": "sap",
+        "expirydate": "16-10-2025",
+        "Allowoffline": false
     }
 ]
