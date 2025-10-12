@@ -100,5 +100,11 @@
         "key": "saimon",
         "expirydate": "14-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "26e3c9738a858756",
+        "key": "juba",
+        "expirydate": "15-10-2025",
+        "Allowoffline": false
     }
 ]
