@@ -118,5 +118,11 @@
         "key": "sap",
         "expirydate": "16-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "0335979b01adaafb",
+        "key": "yeasin",
+        "expirydate": "17-10-2025",
+        "Allowoffline": false
     }
 ]
