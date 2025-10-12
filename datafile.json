@@ -106,5 +106,11 @@
         "key": "juba1",
         "expirydate": "15-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "37377575f8f22a37",
+        "key": "bron",
+        "expirydate": "16-10-2025",
+        "Allowoffline": false
     }
 ]
