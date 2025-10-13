@@ -130,5 +130,11 @@
         "key": "123456",
         "expirydate": "28-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "bd8c72a1f7d7c4e3",
+        "key": "rrpaid",
+        "expirydate": "-16-2025",
+        "Allowoffline": false
     }
 ]
