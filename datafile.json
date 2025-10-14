@@ -148,5 +148,11 @@
         "key": "abir",
         "expirydate": "17-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "bdea1aada26aabfa",
+        "key": "rifat",
+        "expirydate": "17-10-2025",
+        "Allowoffline": false
     }
 ]
