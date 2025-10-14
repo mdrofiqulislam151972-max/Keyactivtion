@@ -160,5 +160,11 @@
         "key": "mahim",
         "expirydate": "17-10-2025",
         "Allowoffline": false
+    },
+        {
+        "device_id": "bb6caa3bc5101eca",
+        "key": "paid",
+        "expirydate": "17-10-2025",
+        "Allowoffline": false
     }
 ]
