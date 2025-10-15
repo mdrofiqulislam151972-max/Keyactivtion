@@ -20,7 +20,7 @@
         {
         "device_id": "65b7dddbdf9d3980",
         "key": "anik",
-        "expirydate": "16-10-2025",
+        "expirydate": "15-10-2025",
         "Allowoffline": false
     },
     {
@@ -32,7 +32,7 @@
     {
         "device_id": "ca6440ee1a4566bd",
         "key": "90838204",
-        "expirydate": "16-10-2025",
+        "expirydate": "15-10-2025",
         "Allowoffline":false
     },
     {
@@ -68,7 +68,7 @@
     {
         "device_id": "2636bc7c99f8e37c",
         "key": "8899",
-        "expirydate": "16-10-2025",
+        "expirydate": "15-10-2025",
         "Allowoffline": false
     },
     {
@@ -92,7 +92,7 @@
     {
         "device_id": "6aff75d1acb4d249",
         "key": "FRFAGUN",
-        "expirydate": "16-10-2025",
+        "expirydate": "15-10-2025",
         "Allowoffline": false
     },
     {
@@ -104,67 +104,67 @@
     {
         "device_id": "26e3c9738a858756",
         "key": "juba1",
-        "expirydate": "18-10-2025",
+        "expirydate": "15-10-2025",
         "Allowoffline": false
     },
     {
         "device_id": "37377575f8f22a37",
         "key": "bron",
-        "expirydate": "16-10-2025",
+        "expirydate": "15-10-2025",
         "Allowoffline": false
     },
     {
         "device_id": "21e2cb983c6da5ef",
         "key": "sap",
-        "expirydate": "16-10-2025",
+        "expirydate": "15-10-2025",
         "Allowoffline": false
     },
     {
         "device_id": "0335979b01adaafb",
         "key": "yeasin",
-        "expirydate": "17-10-2025",
+        "expirydate": "15-10-2025",
         "Allowoffline": false
     },
     {
         "device_id": "609ee41759720291",
         "key": "123456",
-        "expirydate": "28-10-2025",
+        "expirydate": "15-10-2025",
         "Allowoffline": false
     },
     {
         "device_id": "bd8c72a1f7d7c4e3",
         "key": "paid",
-        "expirydate": "16-10-2025",
+        "expirydate": "15-10-2025",
         "Allowoffline": false
     },
     {
         "device_id": "4ea8983b6f2e45bc",
         "key": "123",
-        "expirydate": "16-10-2025",
+        "expirydate": "15-10-2025",
         "Allowoffline": false
     },
     {
         "device_id": "5cdbe71f8daa97c9",
         "key": "abir",
-        "expirydate": "17-10-2025",
+        "expirydate": "15-10-2025",
         "Allowoffline": false
     },
     {
         "device_id": "bdea1aada26aabfa",
         "key": "rifat",
-        "expirydate": "17-10-2025",
+        "expirydate": "15-10-2025",
         "Allowoffline": false
     },
     {
         "device_id": "010f8dcadd5b5f5d",
         "key": "mahim",
-        "expirydate": "17-10-2025",
+        "expirydate": "15-10-2025",
         "Allowoffline": false
     },
         {
         "device_id": "bb6caa3bc5101eca",
         "key": "12345",
-        "expirydate": "17-10-2025",
+        "expirydate": "15-10-2025",
         "Allowoffline": false
     }
 ]
