@@ -161,10 +161,16 @@
         "expirydate": "17-10-2025",
         "Allowoffline": false
     },
-        {
+    {
         "device_id": "bb6caa3bc5101eca",
         "key": "12345",
         "expirydate": "15-10-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "6a334cb5f3790cab",
+        "key": "123",
+        "expirydate": "29-10-2025",
         "Allowoffline": false
     }
 ]
